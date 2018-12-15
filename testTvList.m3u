@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live" ,====== IBIZA ======
+http://0/0.m3u8
+#EXTINF:-1 group-title="Live" ,IBIZA1
+http://ibiza-tv.1919hdtv.com:8880/lfh/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Live" ,IBIZA2
+http://ibiza-tv.1919hdtv.com:8880/lfh/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1 group-title="Live" ,IBIZA3
+http://ibiza-tv.1919hdtv.com:8880/lfh/_definst_/Stream3/playlist.m3u8
